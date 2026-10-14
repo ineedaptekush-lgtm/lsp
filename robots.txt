@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lsp-ice-glow-ekb.erofeypavlovich.chatgpt.site/sitemap.xml
